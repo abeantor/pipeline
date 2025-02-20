@@ -4,14 +4,11 @@ on:
   push:
     branches: 
       - "main"
-      # This will make it run on all branches
   pull_request:
     branches: [ "main" ]
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
 
     steps:
