@@ -66,7 +66,7 @@ jobs:
               "type": "section",
               "text": {
                 "type": "mrkdwn",
-                "text": ":white_check_mark: CD Deployment Successful!\n:tada: The deployment for *abeantor/pipeline* was successful! :white_check_mark:"
+                "text": ":white_check_mark: CD Deployment Successful!\n:tada: The deployment for *iHassan/pipeline* was successful! :white_check_mark:"
               }
             }
           ]
